@@ -1,0 +1,18 @@
+#
+# DEFAULT CONFIG FILE
+#
+
+# search terms
+search_terms="'claro s/a' dano mora"
+
+# range of days to look for
+date_from="2020-01-01"
+date_to="2020-03-01"
+
+# range of robot iteration
+start_point=1
+stop_point=100
+
+# output folder/FILE
+
+output=claro-dano-mora
